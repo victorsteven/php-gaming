@@ -7,5 +7,9 @@
 ``` php artisan serve```
 
 
+- Link to documentation:
+https://documenter.getpostman.com/view/4595252/T17M86eA
+
+
 
 
